@@ -1,4 +1,4 @@
-# Student Management System Desktop Application JAVA using Eclipse IDE
+# Student Management System Desktop Application JAVA using Eclipse IDE.
 
 Student Management System Desktop Application JAVA using Eclipse IDE.
 
